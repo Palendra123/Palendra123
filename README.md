@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Palendra Gujjar
 - 👀 I’m interested in ...CS
 - 🌱 I’m currently learning ...Web...3
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Front-end projects
 - 📫 How to reach me ... Twitter:- https://twitter.com/palendarriyana
 
 <!---
