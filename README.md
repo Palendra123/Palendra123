@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...CS
 - 🌱 I’m currently learning ...Web...3
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Twitter:- https://twitter.com/palendarriyana
 
 <!---
 Palendra123/Palendra123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
