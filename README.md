@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Palendra Gujjar
+- 👋 Hi, I’m @Palendra Singh
 - 👀 I’m interested in ...Tech
 - 🌱 I’m currently learning ...Web Dev
 - 💞️ I’m looking to collaborate on ... Front-end projects
